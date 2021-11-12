@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=alexandrephz&color=006bed)
 
-<h3> :men: &nbsp;Sobre mim </h3>
+<h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Buscando sempre aprender novas linguagens e novos conceitos.
 - 🎓 &nbsp; Estudando Analise e desenvolvimento de sistenas na <a href="https://www.impacta.edu.br/">impacta Tecnologia</a>.
