@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: alexandrephz](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrephz)](www.linkedin.com/in/alexandrephz)
+[![Linkedin: alexandrephz](https://img.shields.io/badge/-alexandrephz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandrephz)](www.linkedin.com/in/alexandrephz)
 [![Gmail Badge](https://img.shields.io/badge/-alexandregomes@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandregomes@gmail.com)](mailto:alexandregomes@gmail.com)
 [![GitHub alexandrephz]( https://img.shields.io/github/followers/alexandrephz?label=follow&style=social)](LINK-DO-SEU-GITHUB)
