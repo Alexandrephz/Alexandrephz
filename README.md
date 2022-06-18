@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Buscando sempre aprender novas linguagens e novos conceitos.
 - 🎓 &nbsp; Estudando Analise e desenvolvimento de sistenas na <a href="https://www.impacta.edu.br/">Impacta Tecnologia</a>.
 - 💼 &nbsp; Trabalhando como Coordenador de T.I
-- 🌱 &nbsp; Aprendendo mais sobre ruby, especificamente framework Ruby On Rails.
+- 🌱 &nbsp; Aprendendo mais sobre ruby, especificamente o framework Ruby On Rails.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
